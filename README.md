@@ -1,4 +1,5 @@
 # Lane-Detection
+The pythons script is in the jupyter notebook
 
 The following steps were performed for lane detection:
 
